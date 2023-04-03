@@ -1,0 +1,86 @@
+2023-04-03 12:39:46 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 12:39:46 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 12:39:47 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 12:39:52 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 12:40:00 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 12:40:01 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 12:44:32 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 12:44:32 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 12:44:32 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 12:44:35 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 12:44:46 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-03 12:44:54 INFO  ApplicationLogger:26 - FN=Test
+2023-04-03 12:44:54 INFO  ApplicationLogger:26 - Male
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - 8877665544
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - Name: Test, calab
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - Gender: Male
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - Birthdate: 10, February, 2000
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - Address: Test, Main Street, NewYork, NY, USA, 10022
+2023-04-03 12:44:56 INFO  ApplicationLogger:26 - Phone Number: 8877665544
+2023-04-03 12:45:44 INFO  ApplicationLogger:26 - Uploaded Message=The attachment was successfully uploaded.
+2023-04-03 12:45:44 INFO  ApplicationLogger:26 - file uploaded and message shown
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - File Uploaded and File present in UI
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - Recently uploded file present in UI checked using CSS
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - UploadedFileName= 03.Apr.2023
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - 03.Apr.2023
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - Recently uploaded file present with correct date
+2023-04-03 12:45:46 INFO  ApplicationLogger:26 - End visit clicked
+2023-04-03 12:45:47 INFO  ApplicationLogger:26 - End visit yes btn clicked
+2023-04-03 12:45:52 INFO  ApplicationLogger:26 - Delete btn clicked
+2023-04-03 12:45:57 INFO  ApplicationLogger:26 - Data Deleted
+2023-04-03 12:45:57 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 12:45:58 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 12:45:59 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 13:02:28 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 13:02:28 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:02:28 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:02:31 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:02:46 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-03 13:02:50 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 13:02:51 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 13:04:15 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 13:04:15 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:04:15 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:04:18 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:04:28 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 13:04:29 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 13:07:10 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 13:07:10 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:07:10 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:07:13 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:07:22 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:07:23 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 13:07:23 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 13:10:12 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 13:10:12 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:10:12 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:10:15 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:10:30 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 13:10:30 INFO  ApplicationLogger:26 - Out tearDownClass
+2023-04-03 13:12:02 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-03 13:12:02 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:12:02 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:12:05 INFO  ApplicationLogger:26 - In setUpClass
+2023-04-03 13:12:16 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-03 13:12:22 INFO  ApplicationLogger:26 - FN=Test
+2023-04-03 13:12:22 INFO  ApplicationLogger:26 - Male
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - 8877665544
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - Name: Test, calab
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - Gender: Male
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - Birthdate: 10, February, 2000
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - Address: Test, Main Street, NewYork, NY, USA, 10022
+2023-04-03 13:12:24 INFO  ApplicationLogger:26 - Phone Number: 8877665544
+2023-04-03 13:13:16 INFO  ApplicationLogger:26 - Uploaded Message=The attachment was successfully uploaded.
+2023-04-03 13:13:16 INFO  ApplicationLogger:26 - file uploaded and message shown
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - File Uploaded and File present in UI
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - Recently uploded file present in UI checked using CSS
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - UploadedFileName= 03.Apr.2023
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - 03.Apr.2023
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - Recently uploaded file present with correct date
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - End visit clicked
+2023-04-03 13:13:19 INFO  ApplicationLogger:26 - End visit yes btn clicked
+2023-04-03 13:13:24 INFO  ApplicationLogger:26 - Delete btn clicked
+2023-04-03 13:13:28 INFO  ApplicationLogger:26 - Data Deleted
+2023-04-03 13:13:28 INFO  ApplicationLogger:26 - Out setUpClass
+2023-04-03 13:13:30 INFO  ApplicationLogger:26 - In tearDownClass
+2023-04-03 13:13:30 INFO  ApplicationLogger:26 - Out tearDownClass

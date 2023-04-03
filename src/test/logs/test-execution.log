@@ -1,0 +1,57 @@
+2023-04-02 23:27:18 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-02 23:27:18 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-02 23:27:25 INFO  ApplicationLogger:26 - FN=Test
+2023-04-02 23:27:25 INFO  ApplicationLogger:26 - Male
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - 8877665544
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - Name: Test, calab
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - Gender: Male
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - Birthdate: 10, February, 2000
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - Address: Test, Main Street, NewYork, NY, USA, 10022
+2023-04-02 23:27:27 INFO  ApplicationLogger:26 - Phone Number: 8877665544
+2023-04-02 23:28:09 INFO  ApplicationLogger:26 - Uploaded Message=The attachment was successfully uploaded.
+2023-04-02 23:28:09 INFO  ApplicationLogger:26 - file uploaded and message shown
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - File Uploaded and File present in UI
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - Recently uploded file present in UI checked using CSS
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - UploadedFileName= 02.Apr.2023
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - 02.Apr.2023
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - Recently uploaded file present with correct date
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - End visit clicked
+2023-04-02 23:28:12 INFO  ApplicationLogger:26 - End visit yes btn clicked
+2023-04-02 23:33:41 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-02 23:33:41 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-02 23:33:48 INFO  ApplicationLogger:26 - FN=Test
+2023-04-02 23:33:48 INFO  ApplicationLogger:26 - Male
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - 8877665544
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - Name: Test, calab
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - Gender: Male
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - Birthdate: 10, February, 2000
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - Address: Test, Main Street, NewYork, NY, USA, 10022
+2023-04-02 23:33:50 INFO  ApplicationLogger:26 - Phone Number: 8877665544
+2023-04-02 23:34:31 INFO  ApplicationLogger:26 - Uploaded Message=The attachment was successfully uploaded.
+2023-04-02 23:34:31 INFO  ApplicationLogger:26 - file uploaded and message shown
+2023-04-02 23:34:33 INFO  ApplicationLogger:26 - File Uploaded and File present in UI
+2023-04-02 23:34:33 INFO  ApplicationLogger:26 - Recently uploded file present in UI checked using CSS
+2023-04-02 23:34:33 INFO  ApplicationLogger:26 - UploadedFileName= 02.Apr.2023
+2023-04-02 23:34:33 INFO  ApplicationLogger:26 - 02.Apr.2023
+2023-04-02 23:34:33 INFO  ApplicationLogger:26 - Recently uploaded file present with correct date
+2023-04-02 23:34:34 INFO  ApplicationLogger:26 - End visit clicked
+2023-04-02 23:34:34 INFO  ApplicationLogger:26 - End visit yes btn clicked
+2023-04-02 23:36:19 INFO  ApplicationLogger:19 - Log4j appender configuration is successful !!
+2023-04-02 23:36:19 INFO  ApplicationLogger:26 - Expected Title of the page present so Assertion Passed
+2023-04-02 23:36:27 INFO  ApplicationLogger:26 - FN=Test
+2023-04-02 23:36:27 INFO  ApplicationLogger:26 - Male
+2023-04-02 23:36:28 INFO  ApplicationLogger:26 - 8877665544
+2023-04-02 23:36:28 INFO  ApplicationLogger:26 - Name: Test, calab
+2023-04-02 23:36:29 INFO  ApplicationLogger:26 - Gender: Male
+2023-04-02 23:36:29 INFO  ApplicationLogger:26 - Birthdate: 10, February, 2000
+2023-04-02 23:36:29 INFO  ApplicationLogger:26 - Address: Test, Main Street, NewYork, NY, USA, 10022
+2023-04-02 23:36:29 INFO  ApplicationLogger:26 - Phone Number: 8877665544
+2023-04-02 23:37:11 INFO  ApplicationLogger:26 - Uploaded Message=The attachment was successfully uploaded.
+2023-04-02 23:37:11 INFO  ApplicationLogger:26 - file uploaded and message shown
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - File Uploaded and File present in UI
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - Recently uploded file present in UI checked using CSS
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - UploadedFileName= 02.Apr.2023
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - 02.Apr.2023
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - Recently uploaded file present with correct date
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - End visit clicked
+2023-04-02 23:37:14 INFO  ApplicationLogger:26 - End visit yes btn clicked
